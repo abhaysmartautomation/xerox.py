@@ -121,8 +121,7 @@ def bot():
 
     # Agar kuch samajh na aaye aur reply khali ho
     if not reply:
-        return "✨sorry i cant understand ✨
- to see prices type:'start, hi, menu, " # Chup raho
+        return "✨sorry i cant understand ✨to see prices type:'start, hi, menu," # Chup raho
 
     return reply
 
